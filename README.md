@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|井口 陽平(Yohei Iguchi))|
-|Linkdein|[Linkdein]](https://www.linkedin.com/in/yohei-iguchi-38ab1b2a/)|
+|Linkdein|[Linkdein](https://www.linkedin.com/in/yohei-iguchi-38ab1b2a/)|
 
 ## スキル
 
